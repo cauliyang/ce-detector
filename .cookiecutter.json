@@ -1,0 +1,10 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "YangyangLi",
+  "email": "li002252@umn.edu",
+  "friendly_name": "Ce Detector",
+  "github_user": "cauliyang",
+  "package_name": "ce_detector",
+  "project_name": "ce-detector",
+  "version": "0.0.0"
+}
